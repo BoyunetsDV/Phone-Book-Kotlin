@@ -1,0 +1,12 @@
+content:
+- Boolean and logical operations
+- Characters
+- Working with strings
+- Getting substrings
+- BigInteger
+- Reading data with a readLine
+- String arrays
+- Mutable Set
+- Map
+- Functions as objects
+- Lambda expressions
