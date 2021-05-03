@@ -49,6 +49,7 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Mutable Set/Division problem/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Division problem.Phone_Book.Topics-Mutable_Set-Division_problem.main" />
     <orderEntry type="module" module-name="Phone_Book.util.main" />
     <orderEntry type="module" module-name="Phone_Book.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10" level="project" />

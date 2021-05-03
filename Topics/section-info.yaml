@@ -13,3 +13,7 @@ content:
 - Functional decomposition
 - Named arguments
 - The main() function
+- Errors in programs
+- What is an exception
+- Taming exceptions
+- The try-catch-finally statement

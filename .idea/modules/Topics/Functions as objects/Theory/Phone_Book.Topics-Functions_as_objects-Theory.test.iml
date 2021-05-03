@@ -49,7 +49,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functions as objects/Theory/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Theory.Phone_Book.Topics-Functions_as_objects-Theory.main" />
     <orderEntry type="module" module-name="Phone_Book.util.main" />
     <orderEntry type="module" module-name="Phone_Book.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.10" level="project" />
