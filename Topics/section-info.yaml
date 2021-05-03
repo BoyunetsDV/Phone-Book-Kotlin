@@ -10,3 +10,6 @@ content:
 - Map
 - Functions as objects
 - Lambda expressions
+- Functional decomposition
+- Named arguments
+- The main() function

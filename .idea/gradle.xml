@@ -30,6 +30,10 @@
             <option value="$PROJECT_DIR$/Topics/Characters/Previous character" />
             <option value="$PROJECT_DIR$/Topics/Characters/Sequence" />
             <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four functions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
             <option value="$PROJECT_DIR$/Topics/Functions as objects/Continuation-Passing Style" />
             <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
             <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
@@ -55,6 +59,13 @@
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Subtraction" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Theory" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/To clear or not to clear" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car speed" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Fix the input" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readLine/Read a Double" />
@@ -66,6 +77,11 @@
             <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Printing arguments" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main() function/Using arguments" />
             <option value="$PROJECT_DIR$/Topics/Working with strings/JSON" />
             <option value="$PROJECT_DIR$/Topics/Working with strings/N-th symbol" />
             <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
