@@ -17,3 +17,5 @@ content:
 - What is an exception
 - Taming exceptions
 - The try-catch-finally statement
+- BigDecimal
+- The Math library

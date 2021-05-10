@@ -12,6 +12,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Division" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/Exabytes" />
             <option value="$PROJECT_DIR$/Topics/BigInteger/LCM" />
@@ -85,6 +90,16 @@
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle number format exception" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
             <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fourth root" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Fractional part" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/National assembly" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Pow" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Sine and cosine" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/The Math library/Theory" />
             <option value="$PROJECT_DIR$/Topics/The main() function/Change program arguments" />
             <option value="$PROJECT_DIR$/Topics/The main() function/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/The main() function/Printing arguments" />
